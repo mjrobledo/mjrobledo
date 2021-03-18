@@ -23,7 +23,7 @@ Soy desarrollador iOS con más de 7 años de experiencia.
 
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/ing.mjrobledo.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](ing.mjrobledo@live.com.mx)
+[![Email](https://img.shields.io/badge/ing.mjrobledo@live.com.mx-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](ing.mjrobledo@live.com.mx)
 
 <!---
 mjrobledo/mjrobledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
